@@ -1,0 +1,3 @@
+Hello, Python user!
+Writing to files is essential
+ Hi, Python user! Nice to meet you!
